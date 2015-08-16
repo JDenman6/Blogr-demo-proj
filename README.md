@@ -5,4 +5,5 @@
 http://tutorials.jumpstartlab.com/projects/blogger.html
 
 I0 - completed
-I1 - in progress.
+I1 - completed
+I2 - in progress.
